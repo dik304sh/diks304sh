@@ -44,17 +44,12 @@ Performed in **Power BI**:
 ---
 
 📸 *Dataset:*  
-(Add dataset link here)
+https://github.com/dik304sh/Bank-Analytics-Dashboard/blob/main/Bank%20Data%20Analystics.xlsx
 
 ---
 
 ## 4. 🧩 Data Modeling
-- Designed a **Star Schema Model**  
-- Built relations between fact_Loan & dimension tables  
 - Added DAX-based KPIs and calculated fields  
-
-📸 *Data Model:*  
-(Add data model link here)
 
 ---
 
@@ -94,6 +89,6 @@ Performed in **Power BI**:
 
 ## 7. 🛠️ Tech Stack
 - **Tool:** Power BI  
-- **Techniques:** DAX, Slicers, Data Modeling, ETL  
+- **Techniques:** DAX, Slicers,ETL  
 - **Visual Types:** Bar, Line, Donut, Tree, KPI Cards  
 
